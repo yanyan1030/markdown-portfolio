@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+1. Erdbeeren
+2. Mango
+3. Granatapfel
+  * Heidelberg
+  * Freiburg
+  * Berlin
+  - Switzland
+  - Germany
+  - Canada
+    * Toranto
