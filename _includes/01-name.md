@@ -1,5 +1,3 @@
-# Yanyan Shen
-## Jan Reitz
-#### Guansong Ji
-##### Jiaxiu 
-###### Danke
+# Language portal
+# Cultural Exchange 
+# Application tips and some questions
