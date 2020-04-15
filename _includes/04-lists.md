@@ -1,10 +1,6 @@
-1. Erdbeeren
-2. Mango
-3. Granatapfel
-  * Heidelberg
-  * Freiburg
-  * Berlin
-  - Switzland
-  - Germany
-  - Canada
-    * Toranto
+To do:
+* Deutsch lernen
+* Zwei Bewerbungen fertig
+- Video fertig schauen 
+ * Fehlerrechnung fertig
+ 
